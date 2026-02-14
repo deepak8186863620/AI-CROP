@@ -1,0 +1,9 @@
+{
+  "name": "AI crop recommendation",
+  "description": "A multilingual, multimodal AI platform for Indian farmers providing personalized crop recommendations, pest diagnosis, and field planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
